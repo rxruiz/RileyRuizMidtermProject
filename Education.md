@@ -1,9 +1,10 @@
 # Education
-Here I have provided a summary of education
+Here I have provided a summary of my education
 ## Schools Attended (in order)
 1. James Foster Elementary
 2. SCVi Charter School
 3. Harvard-Westlake
+4 University of Missouri - Columbia
 
 ### Current Enrollment
 Currently I am a sophomore IT major at the **University of Missouri - Columbia**. I started my college career as a mechanical engineer but soon after realized that wasn't for me. I enjoy the coding and technical work of IT.

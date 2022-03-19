@@ -7,3 +7,4 @@ This site contains links to markdown pages about me.
 - [Hobbies](Hobbies.md "Hobbies")
 - [Sports](Sports.md "Sports")
 - [Education](Education.md "Education") 
+- [Old Projects](OldCode.md "Old Projects")

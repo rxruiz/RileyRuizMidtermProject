@@ -41,3 +41,27 @@ def main():
 main()
     
 ```        
+### Turtle Image
+```
+from turtle import Turtle
+
+sheldon = Turtle()
+#this program draws a star using a turtle
+sheldon.begin_fill()
+sheldon.color("blue")
+sheldon.pensize(10)
+sheldon.up()
+sheldon.setx(0)
+sheldon.sety(300)
+sheldon.down()
+sheldon.seth(180)
+sheldon.circle(300)
+sheldon.end_fill()
+sheldon.seth(288)
+sheldon.color("red", "white")
+sheldon.begin_fill()
+for x in range(5):
+    sheldon.fd(571)
+    sheldon.right(144)
+sheldon.end_fill()
+```

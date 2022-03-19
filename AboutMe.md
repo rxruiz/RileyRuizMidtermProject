@@ -6,3 +6,6 @@ I was born in Santa Clarita, CA on November 17, 2000. I attended two different e
 Both of my parents are also from southern California. They also both work at schools back home, my dad teaches PE and my mom runs a children's center. I have two brothers; Ramsey (17) and Ryan (21)
 
 ![Family Photo](FamilyPhoto.jpg)
+
+----------------------------------------------------------
+[Back to Home](README.md "Home")
